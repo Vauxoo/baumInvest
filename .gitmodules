@@ -1,0 +1,8 @@
+[submodule "baumInvest"]
+	path = baumInvest
+	url = git@git.vauxoo.com:Vauxoo/bauminvest.git
+	branch = 13.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:Vauxoo/costarica.git
+	branch = 13.0
